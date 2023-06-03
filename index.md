@@ -13,3 +13,7 @@ function greetings(name) {
 
 greetings("Prof Julio");
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
